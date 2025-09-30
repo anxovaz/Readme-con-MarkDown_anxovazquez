@@ -50,3 +50,8 @@ print("Hello World)
 | Columna1 | Columna2 |
 | --- | --- |
 | Valor1 | Valor2 |
+
+## Lista
+- A
+* B
++ C
