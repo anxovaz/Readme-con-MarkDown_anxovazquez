@@ -43,10 +43,10 @@ print("Hello World)
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Tabla
-| Columna1 | Columna2 |
-| --- | --- |
-| Valor1 | Valor2 |
+## Tabla ventaja y desventaja
+| Ventaja | Desventaja |
+|---------|------------|
+| La IA puede mejorar el aprendizaje | Es muy cómoda    |
 
 ## Ventajas y desventajes
 
