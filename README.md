@@ -22,7 +22,7 @@ print("Hello World)
 
 :smile:
 
-## Enlace a `main.py`
+## Enlace a un codigo generado por una IA
 [Código](./files/main.py)
 
 > [!WARNING]
