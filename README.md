@@ -15,6 +15,7 @@ La **Inteligencia Artificial** está *revolucionando* la ~~educación~~ al permi
 ## Sección de código :smile:
 
 ```
+#Esto es un ejemplo de lo que puede hacer una IA
 print("Hello World)
 ```
 
