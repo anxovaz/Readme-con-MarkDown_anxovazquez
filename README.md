@@ -12,3 +12,12 @@ La **Inteligencia Artificial** está *revolucionando* la ~~educación~~ al permi
 
 > Inteligencia artificial
 
+## Sección de código
+
+```
+print("Hello World)
+```
+
+## Emojis
+
+:smile:
