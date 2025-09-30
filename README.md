@@ -12,15 +12,11 @@ La **Inteligencia Artificial** está *revolucionando* la ~~educación~~ al permi
 
 > Inteligencia artificial
 
-## Sección de código
+## Sección de código :smile:
 
 ```
 print("Hello World)
 ```
-
-## Emojis
-
-:smile:
 
 ## Enlace a un codigo generado por una IA
 [Código](./files/main.py)
@@ -52,6 +48,7 @@ print("Hello World)
 | Valor1 | Valor2 |
 
 ## Lista
+
 - A
 * B
 + C
