@@ -24,3 +24,5 @@ print("Hello World)
 
 ## Enlace a `main.py`
 [Código](./files/main.py)
+> [!WARNING]
+> Esto es un warning
