@@ -48,8 +48,8 @@ print("Hello World)
 | --- | --- |
 | Valor1 | Valor2 |
 
-## Lista
+## Ventajas y desventajes
 
-- A
-* B
-+ C
+- La IA puede mejorar el aprendizaje
+* Puede ser perjudicial si no se usa correctamente
++ Es muy cómoda
