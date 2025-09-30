@@ -28,7 +28,7 @@ print("Hello World)
 > [!WARNING]
 > La IA puede ser perjudicial si no se usa bien
 
-## salto_de_li<br>nea
+## I<br>A
 
 ## Algunas tecnologías y lenaguajes que conozco
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
