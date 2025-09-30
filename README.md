@@ -26,7 +26,7 @@ print("Hello World)
 [Código](./files/main.py)
 
 > [!WARNING]
-> Esto es un warning
+> La IA puede ser perjudicial si no se usa bien
 
 ## salto_de_li<br>nea
 
